@@ -1,3 +1,4 @@
+/* Reads and prints cmdline args */
 package main
 
 import (

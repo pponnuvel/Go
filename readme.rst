@@ -1,1 +1,1 @@
-Some sample Go programs.
+Go play ground.

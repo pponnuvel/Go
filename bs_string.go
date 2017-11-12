@@ -1,4 +1,4 @@
-// Bubble sort for strings
+/* Bubble sort for strings */
 package main
 
 import (

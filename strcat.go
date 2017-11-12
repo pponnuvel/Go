@@ -1,3 +1,4 @@
+/* Concatenate strings */
 package main
 
 import (

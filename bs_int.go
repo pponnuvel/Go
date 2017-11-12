@@ -1,4 +1,4 @@
-// Bubble sort for integers
+/* Bubble sort for integers */
 package main
 
 import (
