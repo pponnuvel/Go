@@ -13,6 +13,14 @@ func main() {
 
 	sl = append(sl, 2, 3, 4)
 	printSlice(sl)
+
+	arr := [3]int{5, 6, 7}
+	sl = append(sl, arr[:]...)
+	printSlice(sl)
+
+	sl2 := []int{8, 9}
+	sl = append(sl, sl2...)
+	printSlice(sl)
 }
 
 func printSlice(sl []int) {
