@@ -1,3 +1,4 @@
+/* Print the unique lines and number of occurrence of each */
 package main
 
 import (
